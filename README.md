@@ -11,6 +11,8 @@ Source of our Indonesia property datasets:
 2. https://www.kaggle.com/datasets/nafisbarizki/daftar-harga-rumah-jabodetabek
 3. https://www.kaggle.com/datasets/rafliaping/dataset-harga-rumah-bandung
 
+The total of our datasets is 8,072 datasets of lisiting property
+
 ### 3. Pre-processing
 
 1. Data Cleaning: This step involves identifying and handling missing data, duplicate data, or invalid data. This could include deleting irrelevant rows or columns, filling in missing values using a certain method, or removing duplicate entries.
