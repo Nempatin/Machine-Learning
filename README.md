@@ -27,4 +27,4 @@ The total of our datasets is 8,072 datasets of listing property
 ### 4. Model & Deployment
 1. Price Prediction Model: Linear Regression/Convolutional Neural Network  
 2. Recommendation system: Unsupervised Learning Content Based Filtering
-3. Deployment: Google Cloud API
+3. Deployment: Mobile & Google Cloud API
