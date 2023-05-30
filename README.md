@@ -11,7 +11,7 @@ Source of our Indonesia property datasets:
 2. https://www.kaggle.com/datasets/nafisbarizki/daftar-harga-rumah-jabodetabek
 3. https://www.kaggle.com/datasets/rafliaping/dataset-harga-rumah-bandung
 
-The total of our datasets is 8,072 datasets of listing property
+The total of our datasets is 8,072 datasets of listing property 
 
 ### 3. Pre-processing
 
@@ -26,5 +26,5 @@ The total of our datasets is 8,072 datasets of listing property
 5. Data Splitting: This process involves dividing data into training subsets, validation subsets, and test subsets. The training subset is used to train the model, the validation subset is used to evaluate the performance of the model during development, and the test subset is used to test the performance of the model that has been trained.
 ### 4. Model & Deployment
 1. Price Prediction Model: Linear Regression/Convolutional Neural Network  
-2. Recommendation system: Unsupervised Learning - Content Based Filtering
+2. Recommendation system: Unsupervised Learning Content Based Filtering
 3. Deployment: Google Cloud API
