@@ -11,7 +11,7 @@ Source of our Indonesia property datasets:
 2. https://www.kaggle.com/datasets/nafisbarizki/daftar-harga-rumah-jabodetabek
 3. https://www.kaggle.com/datasets/rafliaping/dataset-harga-rumah-bandung
 
-The total of our datasets is 8,072 datasets of listing property 
+We only use Jaksel property datasets with total 1100 data.
 
 ### 3. Pre-processing
 
