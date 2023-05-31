@@ -6,12 +6,12 @@
 3. Tensorflow
 4. Python Libraries (Numpy, Pandas, Seaborn, Matplotlib, Keras, Scikit-learn)
 ### 2. Datasets
-Source of our Indonesia property datasets:
+Reference of our Indonesia property datasets:
 1. https://www.kaggle.com/datasets/wisnuanggara/daftar-harga-rumah
 2. https://www.kaggle.com/datasets/nafisbarizki/daftar-harga-rumah-jabodetabek
 3. https://www.kaggle.com/datasets/rafliaping/dataset-harga-rumah-bandung
 
-We only use Jaksel property datasets with total 1100 data.
+We only use Jaksel property datasets with total 1100 data and 8 columns.
 
 ### 3. Pre-processing
 
