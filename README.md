@@ -11,7 +11,7 @@ Reference of our Indonesia property datasets:
 2. https://www.kaggle.com/datasets/nafisbarizki/daftar-harga-rumah-jabodetabek
 3. https://www.kaggle.com/datasets/rafliaping/dataset-harga-rumah-bandung
 
-We only use Jaksel property datasets with total 1100 data and 8 columns.
+We only use the first one datasets with total 2200 data of Jakarta listing properties.
 
 ### 3. Pre-processing
 
@@ -24,6 +24,7 @@ We only use Jaksel property datasets with total 1100 data and 8 columns.
 4. Feature Engineering: This step involves creating new features that can improve data representation or reveal more useful information to the model. These features can be a mathematical transformation of existing features, data aggregation, or combining existing features to create new, more informative features.
 
 5. Data Splitting: This process involves dividing data into training subsets, validation subsets, and test subsets. The training subset is used to train the model, the validation subset is used to evaluate the performance of the model during development, and the test subset is used to test the performance of the model that has been trained.
+
 ### 4. Model & Deployment
 1. Price Prediction Model: Linear Regression/Convolutional Neural Network  
 2. Recommendation system: Unsupervised Learning Content Based Filtering
