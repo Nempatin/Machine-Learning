@@ -11,7 +11,7 @@ Reference of our Indonesia property datasets:
 2. https://www.kaggle.com/datasets/nafisbarizki/daftar-harga-rumah-jabodetabek
 3. https://www.kaggle.com/datasets/rafliaping/dataset-harga-rumah-bandung
 
-We only use the first one datasets with total 2200 data of Jakarta listing properties.
+We only use the first one link datasets with total 2200 data of Jakarta listing properties.
 
 ### 3. Pre-processing
 
