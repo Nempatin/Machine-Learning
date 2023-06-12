@@ -26,6 +26,6 @@ We only use the first one link datasets with total 2200 data of Jakarta listing 
 5. Data Splitting: This process involves dividing data into training subsets, validation subsets, and test subsets. The training subset is used to train the model, the validation subset is used to evaluate the performance of the model during development, and the test subset is used to test the performance of the model that has been trained.
 
 ### 4. Model & Deployment
-1. Price Prediction Model: Linear Regression/Convolutional Neural Network  
-2. Recommendation system: Unsupervised Learning Content Based Filtering
+1. Price Prediction Model: Convolutional Neural Network and others  
+2. Recommendation system: Content Based Filtering
 3. Deployment: Mobile & Google Cloud API
