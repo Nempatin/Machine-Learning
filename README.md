@@ -5,13 +5,13 @@
 2. Google Colaboratory
 3. Tensorflow
 4. Python Libraries (Numpy, Pandas, Seaborn, Matplotlib, Keras, Scikit-learn)
+
 ### 2. Datasets
-Reference of our Indonesia property datasets:
+We are taking 2 datasets from kaggle links below:
 1. https://www.kaggle.com/datasets/wisnuanggara/daftar-harga-rumah
 2. https://www.kaggle.com/datasets/nafisbarizki/daftar-harga-rumah-jabodetabek
-3. https://www.kaggle.com/datasets/rafliaping/dataset-harga-rumah-bandung
 
-We only use the first one link datasets with total 2200 data of Jakarta listing properties.
+We have already cleaned and organized the data using Microsoft Excel from both datasets (remove irrelevant values, handle missing values, check duplicates, handle outliers, and check data types), so we obtained a total of 4500+ listings of properties data in the Jabodetabek area.
 
 ### 3. Pre-processing
 
