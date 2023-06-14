@@ -26,6 +26,6 @@ We have already cleaned and organized the data using Microsoft Excel from both d
 5. Data Splitting: This process involves dividing data into training subsets, validation subsets, and test subsets. The training subset is used to train the model, the validation subset is used to evaluate the performance of the model during development, and the test subset is used to test the performance of the model that has been trained.
 
 ### 4. Model & Deployment
-1. Price Prediction Model: Convolutional Neural Network / Linear Regression, Random Forest, AdaBoost
+1. Price Prediction: Convolutional Neural Network / Linear Regression, Random Forest, AdaBoost
 2. Recommendation system: Cosine Similarity / K-Nearest Neighbor
 3. Deployment: Mobile / Google Cloud API
